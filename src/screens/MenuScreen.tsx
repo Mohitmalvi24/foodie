@@ -34,7 +34,7 @@ export const MenuScreen = () => {
             <Text style={styles.menuBannerSubtitle}>that you will love</Text>
           </View>
           <Image 
-            source={require('../../assets/images/burger.png')} 
+            source={require('../../assets/images/burger.jpg')} 
             style={styles.menuBannerImage} 
           />
         </View>

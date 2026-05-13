@@ -39,7 +39,7 @@ export const ProductDetailScreen = () => {
         <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.scrollContent}>
           <View style={styles.imageContainer}>
             <Image
-              source={require('../../assets/images/burger.png')} // Should be pizza, using burger as placeholder
+              source={require('../../assets/images/burger.jpg')} // Should be pizza, using burger as placeholder
               style={styles.image}
             />
             <TouchableOpacity style={styles.favoriteButton}>

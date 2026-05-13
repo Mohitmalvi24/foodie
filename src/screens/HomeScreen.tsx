@@ -126,7 +126,7 @@ export const HomeScreen = () => {
             <Text style={styles.bottomBannerContact}>For catering call us at +09909090999</Text>
           </View>
           <Image
-            source={require('../../assets/images/burger.png')}
+            source={require('../../assets/images/burger.jpg')}
             style={styles.bottomBannerImage}
           />
         </LinearGradient>

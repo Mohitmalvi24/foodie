@@ -1,0 +1,15 @@
+export const Colors = {
+  primary: '#FF4B4B',
+  secondary: '#FF7676',
+  background: '#FFFFFF',
+  card: '#F8F8F8',
+  text: '#1A1A1A',
+  textLight: '#7A7A7A',
+  white: '#FFFFFF',
+  black: '#000000',
+  border: '#EEEEEE',
+  success: '#4CAF50',
+  star: '#FFD700',
+  darkOverlay: 'rgba(0,0,0,0.5)',
+  lightOverlay: 'rgba(255,255,255,0.8)',
+};
